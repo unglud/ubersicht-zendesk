@@ -2,6 +2,8 @@
 
 # Zendesk tickets widget for Übersicht
 
+**v.1**
+
 *Display Zendesk new, open and pending tickets on your desktop. You can interact with tickets titles - it's linked to ticket itself on Zendesk site.*
 
 Prerequisites
