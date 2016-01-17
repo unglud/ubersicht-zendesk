@@ -1,4 +1,4 @@
-![Zendesk tickets widget for Übersicht](https://github.com/unglud/ubersicht-zendesk/master/screenshot.png)
+![Zendesk tickets widget for Übersicht](https://raw.githubusercontent.com/unglud/ubersicht-zendesk/master/screenshot.png)
 
 # Zendesk tickets widget for Übersicht
 
